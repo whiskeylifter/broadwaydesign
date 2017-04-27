@@ -1,0 +1,54 @@
+body{
+  text-align: center;
+  font-family: Helvetica
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+}
+
+h1, h2, h3{
+font-weight: bold;
+}
+
+#header, #background{
+  background-image: url("../images/TheFlatironBuilding.png")
+}
+
+#background{
+color: white;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 25px;
+}
+
+li a{
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+h4{
+  font-size: 14px;
+}
+
+p {
+font-size: 11px;
+text-align: left;
+color: white;
+background-color: dimgray;
+}
+
+p a{
+color: white;
+}
